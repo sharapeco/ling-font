@@ -1,0 +1,75 @@
+{
+.appVersion = "1272";
+DisplayStrings = (
+" ",
+"/nbsp",
+"/.notdef"
+);
+date = "2024-01-29 02:12:16 +0000";
+familyName = Null;
+fontMaster = (
+{
+ascender = 800;
+capHeight = 700;
+descender = -200;
+id = "47E68F31-5E44-4F86-9876-2CDFA79B42B0";
+weightValue = 400;
+xHeight = 500;
+}
+);
+glyphs = (
+{
+glyphname = space;
+lastChange = "2024-01-29 02:12:41 +0000";
+layers = (
+{
+layerId = "47E68F31-5E44-4F86-9876-2CDFA79B42B0";
+width = 125;
+}
+);
+unicode = 0020;
+},
+{
+glyphname = .notdef;
+lastChange = "2024-01-29 05:17:31 +0000";
+layers = (
+{
+layerId = "47E68F31-5E44-4F86-9876-2CDFA79B42B0";
+paths = (
+{
+closed = 1;
+nodes = (
+"1 0 LINE",
+"0 1 LINE",
+"0 0 LINE"
+);
+}
+);
+width = 125;
+}
+);
+},
+{
+glyphname = nbsp;
+lastChange = "2024-01-29 02:14:59 +0000";
+layers = (
+{
+layerId = "47E68F31-5E44-4F86-9876-2CDFA79B42B0";
+width = 125;
+}
+);
+}
+);
+instances = (
+{
+interpolationWeight = 400;
+instanceInterpolations = {
+"47E68F31-5E44-4F86-9876-2CDFA79B42B0" = 1;
+};
+name = R;
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
